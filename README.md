@@ -23,5 +23,7 @@ Or run the Boost Math program with:
 
 ./boost_math
 
+## Author
+Kasava (hudanasrulloh)
 
 
